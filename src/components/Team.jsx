@@ -28,7 +28,6 @@ function Team() {
                 {teamMembers.map((member, index) => (
                     <div className="member" key={index}>
                         <img src={member.image} alt={member.name} />
-                        </div>
                     </div>
                 ))}
             </div>
