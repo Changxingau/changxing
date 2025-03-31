@@ -9,6 +9,49 @@
     background: linear-gradient(180deg, #161418, #0a080c 40%);
 }
 
+.subHead {
+  color: #998afb;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.heading {
+  font-size: 64px;
+  margin-top: 25px;
+  font-weight: 550;
+  line-height: 1.05em;
+}
+
+.blockHeading {
+  font-size: 48px;
+}
+
+.desc {
+  color: grey;
+  font-weight: 550;
+  max-width: 635px;
+  font-size: 18px;
+  line-height: 1.5em;
+  margin: 18px 0px;
+}
+
+.blockDesc {
+  margin: 18px 0px 0px 0px;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding-top: 18px;
+}
+
+.links.soonLinks {
+  justify-content: initial;
+}
+
+
 .features {
     margin-top: 90px;
 }

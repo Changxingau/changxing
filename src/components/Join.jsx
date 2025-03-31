@@ -11,7 +11,7 @@ function Join() {
 
             <form className='list'> 
                 <input type="email" placeholder='Enter your email' required />
-                <button type="submit">Join waitlist</button>
+                <button type="submit">Contact US</button>
             </form>
         </div>
     )
